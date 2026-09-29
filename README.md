@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Luis Felipe 👋
 
-<!--
-**Lc-1290/Lc-1290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Analysis and Systems Development student at FATEC, currently focused on **Python, SQL, Data Science and Machine Learning**.
 
-Here are some ideas to get you started:
+I'm building projects to improve my understanding of machine learning fundamentals, statistics, data analysis and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning
+
+Machine Learning • Statistics for Data Science • Python • SQL
+
+## Featured Projects
+
+### 📈 Ecommerce Customer Spending Prediction
+Linear Regression project for predicting yearly customer spending, including model evaluation, cross-validation, coefficient interpretation and residual analysis.
+
+### 📊 Customer Churn Analysis
+Exploratory data analysis focused on identifying patterns associated with customer churn using Python, Pandas and Matplotlib.
+
+### 💰 Personal Expense Tracker
+Personal finance application built with Python, Streamlit and SQLite for managing income, expenses and budgets.
+
+## Technologies
+
+`Python` `Pandas` `Scikit-learn` `Matplotlib` `SQL` `SQLite` `Streamlit` `Git`
