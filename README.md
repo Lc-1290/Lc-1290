@@ -10,13 +10,13 @@ Machine Learning • Statistics for Data Science • Python • SQL
 
 ## Featured Projects
 
-### Ecommerce Customer Spending Prediction
+### [Ecommerce Customer Spending Prediction](https://github.com/Lc-1290/LinearRegression)
 Linear Regression project for predicting yearly customer spending, including model evaluation, cross-validation, coefficient interpretation and residual analysis.
 
-### Customer Churn Analysis
+### [Customer Churn Analysis](https://github.com/Lc-1290/Churn-Analysis)
 Exploratory data analysis focused on identifying patterns associated with customer churn using Python, Pandas and Matplotlib.
 
-### Personal Expense Tracker
+### [Personal Expense Tracker](https://github.com/Lc-1290/Personal-Expense-Tracker)
 Personal finance application built with Python, Streamlit and SQLite for managing income, expenses and budgets.
 
 ## Technologies
